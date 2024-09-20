@@ -4,7 +4,7 @@ This script compares two Excel files with multiple sheets and identifies overlap
 
 ## Features
 
-- Compares all sheets with matching names in both Excel files.
+- Compares all sheets in both Excel files.
 - Finds overlapping rows by performing an **inner join** on all columns.
 - Writes the overlapping data to a new Excel file, preserving the original sheet names.
 
