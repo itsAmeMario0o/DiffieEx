@@ -1,0 +1,7 @@
+# requirements.txt for Excel comparison script
+
+# Data manipulation library
+pandas>=1.1.0
+
+# Excel read/write engine for .xlsx files
+openpyxl>=3.0.0
