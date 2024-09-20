@@ -30,8 +30,8 @@ def compare_excel_files(file1, file2, output_file):
     print(f"Comparison complete. Overlapping data saved in '{output_file}'.")
 
 # Example usage:
-file1 = 'DOC1.xlsx'  # Path to the first Excel file - UPDATE TO REFLECT NAME OF FILE
-file2 = 'DOC2.xlsx'  # Path to the second Excel file - UPDATE TO REFLECT NAME OF FILE
+file1 = 'PROXY.xlsx'  # Path to the first Excel file - UPDATE TO REFLECT NAME OF FILE
+file2 = 'ZTNA.xlsx'  # Path to the second Excel file - UPDATE TO REFLECT NAME OF FILE
 output_file = 'overlap_data.xlsx'  # Path to the output Excel file
 
 compare_excel_files(file1, file2, output_file)
